@@ -8,7 +8,7 @@ Windows application With CURD operations.
 - ADO.Net
 - SQL
 - Interfaces
-- Text Files
+- Text Files 
 - App.config data storage and retrieval
 
 
