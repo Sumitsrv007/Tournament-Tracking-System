@@ -1,4 +1,4 @@
-# Tournament Tracker
+# Tournament Tracking System
 
 Windows application With CURD operations.
 
